@@ -4,7 +4,7 @@ You can run it using the following command:
 python manage.py runserver
 
 
-For database migrations, use these commands.
+For database migrations, use these commands:
 python manage.py makemigrations
 
 and then,
