@@ -10,3 +10,10 @@ python manage.py makemigrations
 and then,
 
 python manage.py migrate
+
+
+You can access the admin by going to
+
+http://localhost:8000/admin/
+
+and you peform the crud operations there.
